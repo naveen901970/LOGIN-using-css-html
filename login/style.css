@@ -22,7 +22,7 @@ body{
     backdrop-filter: blur(20px);
     box-shadow: 20px 0 200px rgba(0,0,0,.2);
     color: #fff;
-    border-radius: 15px;
+    border-radius: 45px;
     padding:30px 40px ;
 }
 .wrapper h1{
